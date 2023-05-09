@@ -20,7 +20,7 @@ Most of the Redux store logic is implemented in boardSlice.js. This includes ini
 
 The application state is an array of 12 objects with each object representing a card:
 
-// card object
+### card object
 {
   id: uniqueID, 
   contents: wordString, 
