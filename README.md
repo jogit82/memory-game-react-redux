@@ -34,6 +34,10 @@ flipCard: set visible of the specified card id to true
 resetCards set visible to false on unmatched cards
 # Getting Started with Create React App and Redux
 
+###Finished project: 
+
+![Screenshot of finished project](https://github.com/jogit82/memory-game-react-redux/blob/master/Screenshot%202023-05-09%20at%2010.58.06%20AM.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
