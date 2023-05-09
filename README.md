@@ -4,15 +4,15 @@ This project explores where react-redux fits into an application by finishing of
 
 The application consists of 5 React components:
 
--App: The root component, App renders the Score and Board components.
+- App: The root component, App renders the Score and Board components.
 
--Score: Child of the App component, Score will display the number of matched cards.
+- Score: Child of the App component, Score will display the number of matched cards.
 
--Board: Child of the App component, Board will create the card grid for gameplay.
+- Board: Child of the App component, Board will create the card grid for gameplay.
 
--CardRow: Child of the Board component, CardRow renders a row of Card components.
+- CardRow: Child of the Board component, CardRow renders a row of Card components.
 
--Card: Child of the CardRow component, Card displays the card content when flipped over.
+- Card: Child of the CardRow component, Card displays the card content when flipped over.
 
 One goal of this project will be to show that a nested component like Card can access data and dispatch actions as easily as a higher-level component like App or Score.
 
